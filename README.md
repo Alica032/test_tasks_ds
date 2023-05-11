@@ -1,2 +1,2 @@
-# test_tasks_ds
+# test tasks
 Test tasks for work on ML engineer.
